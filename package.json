@@ -1,0 +1,23 @@
+{
+  "name": "mofron-comp-iconlink",
+  "version": "0.0.1",
+  "description": "link text with icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-iconlink.git"
+  },
+  "dependencies": {
+    "mofron-comp-link": "",
+    "mofron-comp-image": ""
+  },
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-iconlink/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-iconlink#readme"
+}
